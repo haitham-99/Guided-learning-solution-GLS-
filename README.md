@@ -11,6 +11,7 @@ front end engine run a guide in google.<br>
 * Open Chrome Devtools by click 'f12' or right click and 'inspect'
 * Navigate to console
 * copy and Paste player.js in console and you are good to go 
-
-
+## 
+### Video guide
+![video](https://www.youtube.com/watch?v=trId-goDLfA)
 
