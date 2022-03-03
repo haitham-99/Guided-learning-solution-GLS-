@@ -13,5 +13,5 @@ front end engine run a guide in google.<br>
 * copy and Paste player.js in console and you are good to go 
 ## 
 ### Video guide
-![video](https://www.youtube.com/watch?v=trId-goDLfA)
+https://www.youtube.com/watch?v=trId-goDLfA
 
