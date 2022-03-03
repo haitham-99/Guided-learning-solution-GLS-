@@ -16,12 +16,6 @@ const HEIGHT = 140;
 
 let steps;
 let currStepIndex = 0;
-function  addCss(){
-     let css = document.createElement('link');
-     css.rel = 'stylesheet';
-     css.href = 'https://guidedlearning.oracle.com/player/latest/static/css/stTip.css';
-     document.head.appendChild(css);
-}
 function addToolTip(tooltipCss, tip) {
     var css = document.createElement('link');
     css.rel = 'stylesheet';
